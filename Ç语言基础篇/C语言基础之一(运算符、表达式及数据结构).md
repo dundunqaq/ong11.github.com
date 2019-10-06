@@ -2,6 +2,7 @@
 ---
 <center><font size=6 face=黑体>运算符、表达式及数据类型</font></center>
 ## 一、Linux平台下C语言编程基础 ##
+
 &emsp;&emsp;[Linux](https://baike.baidu.com/item/linux/27050?fr=aladdin)是一套免费使用和自由传播的类Unix操作系统，是一个基于POSIX和Unix的多用户、多任务、支持多线程和多CPU的操作系统。它能运行主要的Unix工具软件、应用程序和网络协议。它支持32位和64位硬件。Linux继承了Unix以网络为核心的设计思想，是一个性能稳定的多用户网络操作系统。Linux特点如下：
 - Linux由众多微内核组成，其源代码完全开源；
 - Linux继承了Unix的特性，具有非常强大的网络功能，其支持所有的因特网协议，包括TCP/IPv4、 TCP/IPv6和链路层拓扑程序等，且可以利用Unix的网络特性开发出新的协议栈；
